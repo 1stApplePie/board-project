@@ -1,0 +1,3 @@
+[submodule "board-frontend"]
+	path = board-frontend
+	url = https://github.com/1stApplePie/board-frontend.git
