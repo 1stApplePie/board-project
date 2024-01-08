@@ -1,6 +1,0 @@
-[submodule "board-frontend"]
-	path = board-frontend
-	url = https://github.com/1stApplePie/board-frontend.git
-[submodule "board-backend"]
-	path = board-backend
-	url = https://github.com/1stApplePie/board-backend.git
