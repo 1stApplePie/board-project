@@ -18,7 +18,7 @@
   - 액션 생성 함수
     - 액션 객체를 만들어 주는 함수
       ```jsx
-      function addTodo(data) {
+      function addComment(data) {
         return {
           type: "ADD_COMMENT",
           data,
